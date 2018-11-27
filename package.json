@@ -1,26 +1,30 @@
 {
-    "name": "letter-spacing",
-    "version": "1.0.4",
-    "description": "Add letter spacing to strings, for the browser and node.js. Optionally with Promises.",
-    "main": "index.js",
-    "scripts": {
-      "test": "echo \"Error: lol, nope\" && exit 1"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/julijane/letter-spacing.git"
-    },
-    "keywords": [
-      "letters",
-      "characters",
-      "spacing",
-      "promise",
-      "not a trojan"
-    ],
-    "author": "Juliane Holzt <letter-spacing@my.fqdn.org>",
-    "bugs": {
-      "url": "https://github.com/julijane/letter-spacing/issues"
-    },
-    "homepage": "https://github.com/julijane/letter-spacing#readme",
-    "license": "MIT"
+  "name": "letter-spacing",
+  "version": "1.0.5",
+  "description": "Add letter spacing to strings, for the browser and node.js. Optionally with Promises.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: lol, nope\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julijane/letter-spacing.git"
+  },
+  "keywords": [
+    "letters",
+    "characters",
+    "spacing",
+    "promise",
+    "not a trojan"
+  ],
+  "author": "Juliane Holzt <letter-spacing@my.fqdn.org>",
+  "bugs": {
+    "url": "https://github.com/julijane/letter-spacing/issues"
+  },
+  "homepage": "https://github.com/julijane/letter-spacing#readme",
+  "license": "MIT",
+  "dependencies": {
+    "await-sleep": "0.0.1",
+    "left-pad": "^1.3.0"
   }
+}

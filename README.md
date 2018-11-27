@@ -1,6 +1,6 @@
 # letter-spacing
 
-[![npm version](https://img.shields.io/badge/npm-1.0.4-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
+[![npm version](https://img.shields.io/badge/npm-1.0.5-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
 ![build status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![code coverage](https://img.shields.io/badge/coverage-9001%25-brightgreen.svg)
 ![install size](https://img.shields.io/badge/install_size-0.01TiB-brightgreen.svg)
