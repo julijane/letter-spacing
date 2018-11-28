@@ -124,7 +124,39 @@ c i t a r d a u q   y l l a t n e d i c c a
 
 Print the text as a cube.
 
-1
+```js
+spacedCube('WILL IT BLEND')
+```
+ ```
+W I L L   I T   B L E N D
+I                       N N
+L                       E   E
+L                       L     L
+                        B       B
+I                                  
+T                       T           T
+                        I             I
+B                                        
+L                       L                 L
+E                       L                   L
+N                       I                     I
+D N E L B   T I   L L I W                       W
+  N                       I                     I
+    E                       L                   L
+      L                       L                 L
+        B                                        
+                                  I             I
+            T                       T           T
+              I                                  
+                                        B       B
+                  L                       L     L
+                    L                       E   E
+                      I                       N N
+                        W I L L   I T   B L E N D
+```
+
+##### decaps(str, [spacing=1])
+
 Reverses the string before spacing.
 
 ```js
@@ -160,11 +192,11 @@ let str = await spacedPromise('some other text')
 
 I guaranty the following as soon as this package is required by lots of other packages:
 
-* I will not pass over this repository to someone unknown with no credibility from china (or for the matter of fact, every other country) when i'm no longer interested in this
-* I will not delete this package when npmjs hurts my feelings
-* If there will be minified code in the package as distributed on npmjs it will come from the same source code as in this repository
-* There is no obfuscated code which tries to decrypt some fetched crypted js and then executes it under specific circumstances
-* I will not try to mitigate my terrible mistake of not buying bitcoins when they were like 100000 for 5 Euro by stealing your precious cryptocurrency
+* I probably will not pass over this repository to someone unknown with no credibility from china (or for the matter of fact, every other country) when i'm no longer interested in this
+* I likely might not delete this package when npmjs hurts my feelings
+* If there will be minified code in the package as distributed on npmjs it will come from the same source code or a different source code as in this repository
+* There is no ~~obfuscated code~~ (well let's face it, it's JavaScript, it comes out obfuscated) which tries to decrypt some fetched crypted js and then executes it under *specific* circumstances
+* I most likely will not try to mitigate my terrible mistake of not buying bitcoins when they were like 100000 for 5 Euro by stealing your precious cryptocurrency
 
 This guarantee will always be valid until the exact moment. Void where prohibited or when I change my mind.
 
