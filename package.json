@@ -1,6 +1,6 @@
 {
   "name": "letter-spacing",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Add letter spacing to strings, for the browser and node.js. Optionally with Promises.",
   "main": "index.js",
   "scripts": {
