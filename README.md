@@ -7,7 +7,7 @@
 ![npm downloads](https://img.shields.io/badge/downloads-300_M%2fm-brightgreen.svg)
 ![stupid](https://img.shields.io/badge/stupid-yes-brightgreen.svg)
 
-Add letter spacing to strings, for the browser and node.js. Synchronous or with Promises.
+Add letter spacing to strings, for the browser and node.js. With or without ~~you~~ Promises.
 
 ## Features
 
