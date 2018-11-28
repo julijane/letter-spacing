@@ -228,3 +228,9 @@ Read these:
 
 The point is: Don't blindly add random npm packages, especially if they contain code 
 you could easily duplicate into your own project like the oneliners from this project.
+
+## Final Disclaimer
+
+This packages might be fit for some purpose but it is hereby declared unfit for
+any purpose. If you don't understand, you probably shouldn't use this package.
+If you do, you probably wouldn't use this package.
