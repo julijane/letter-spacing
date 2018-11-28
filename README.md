@@ -127,7 +127,8 @@ Print the text as a cube.
 ```js
 spacedCube('WILL IT BLEND')
 ```
- ```
+
+```
 W I L L   I T   B L E N D
 I                       N N
 L                       E   E
