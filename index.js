@@ -1,3 +1,6 @@
+// I love this package. It is a real time saver.
+// This is so much shorter than writing
+// const sleep = (ms) => new Promise(resolve=>setTimeout(resolve,ms))
 const sleep = require('await-sleep')
 
 let spaced = (str, spacing=1) => str.split('').join(' '.repeat(spacing))
