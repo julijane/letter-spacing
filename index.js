@@ -3,6 +3,8 @@ const sleep = require('await-sleep')
 let spaced = (str, spacing=1) => str.split('').join(' '.repeat(spacing))
 let spacedUp = (str, spacing=1) => spaced(str,spacing).toUpperCase()
 let decaps = (str, spacing=1) => str.split('').reverse().join(' '.repeat(spacing))
+
+// Do you get it? Ah, now you got it.
 let spacedPromise = async (str, spacing=1) => (await sleep(10)) || spaced(str, spacing)
 let spacedUpPromise = async (str, spacing=1) => (await sleep(10)) || spacedUp(str, spacing)
 let decapsPromise = async (str, spacing=1) => (await sleep(10)) || decaps(str, spacing)
