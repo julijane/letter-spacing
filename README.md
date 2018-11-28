@@ -198,6 +198,7 @@ I guaranty the following as soon as this package is required by lots of other pa
 * If there will be minified code in the package as distributed on npmjs it will come from the same source code or a different source code as in this repository
 * There is no ~~obfuscated code~~ (well let's face it, it's JavaScript, it comes out obfuscated) which tries to decrypt some fetched crypted js and then executes it under *specific* circumstances
 * I most likely will not try to mitigate my terrible mistake of not buying bitcoins when they were like 100000 for 5 Euro by stealing your precious cryptocurrency
+* No animals or PHP coders will be harmed in the making of this package
 
 This guarantee will always be valid until the exact moment. Void where prohibited or when I change my mind.
 
