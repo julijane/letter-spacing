@@ -1,6 +1,6 @@
 # letter-spacing
 
-[![npm version](https://img.shields.io/badge/npm-1.0.7-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
+[![npm version](https://img.shields.io/badge/npm-1.0.8-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
 ![build status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![code coverage](https://img.shields.io/badge/coverage-9001%25-brightgreen.svg)
 ![install size](https://img.shields.io/badge/install_size-0.01TiB-brightgreen.svg)
@@ -120,6 +120,42 @@ i                                         c
 c i t a r d a u q   y l l a t n e d i c c a
 ```
 
+#### spacedCube(str)
+
+Print the text as a cube.
+
+```js
+spacedCube('WILL IT BLEND')
+```
+
+```
+W I L L   I T   B L E N D
+I                       N N
+L                       E   E
+L                       L     L
+                        B       B
+I                                  
+T                       T           T
+                        I             I
+B                                        
+L                       L                 L
+E                       L                   L
+N                       I                     I
+D N E L B   T I   L L I W                       W
+  N                       I                     I
+    E                       L                   L
+      L                       L                 L
+        B                                        
+                                  I             I
+            T                       T           T
+              I                                  
+                                        B       B
+                  L                       L     L
+                    L                       E   E
+                      I                       N N
+                        W I L L   I T   B L E N D
+```
+
 ##### decaps(str, [spacing=1])
 
 Reverses the string before spacing.
@@ -140,6 +176,7 @@ in promised versions:
 ##### spacedPromise(str, [spacing=1])
 ##### spacedUpPromise(str, [spacing=1])
 ##### spacedCakePromise(str)
+##### spacedCubePromise(str)
 ##### decapsPromise(str, [spacing=1])
 
 Example:
