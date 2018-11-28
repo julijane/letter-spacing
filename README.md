@@ -209,7 +209,9 @@ This guarantee will always be valid until the exact moment. Void where prohibite
 
 ## Credits
 
-letter-spacing is inspired by [await-sleep](https://github.com/sqren/await-sleep). Ultimately letter-spacing is an effort to provide a `await-sleep`-like one liner(s) module for use outside of sanity. This README was adopted from axios, by the way. Some other inspirations were left-pad, event-stream, flatmap-stream and /r/programmingcirclejerk.
+letter-spacing is inspired by [await-sleep](https://github.com/sqren/await-sleep). Ultimately letter-spacing is an effort to provide a `await-sleep`-like one liner(s) module for use outside of sanity. 
+
+Some other inspirations were left-pad, event-stream, flatmap-stream and /r/programmingcirclejerk, especially the comments in [the discussion about this package](https://www.reddit.com/r/programmingcirclejerk/comments/a0yrgd/im_new_here_and_made_a_npm_package_to_help_this/)
 
 ## License
 
