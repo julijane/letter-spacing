@@ -1,6 +1,6 @@
 # letter-spacing
 
-[![npm version](https://img.shields.io/badge/npm-1.0.6-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
+[![npm version](https://img.shields.io/badge/npm-1.0.7-brightgreen.svg)](https://www.npmjs.org/package/letter-spacing)
 ![build status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![code coverage](https://img.shields.io/badge/coverage-9001%25-brightgreen.svg)
 ![install size](https://img.shields.io/badge/install_size-0.01TiB-brightgreen.svg)
@@ -23,9 +23,6 @@ Add letter spacing to strings, for the browser and node.js. Synchronous or with 
 ![Chrome](https://raw.github.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png) | ![Firefox](https://raw.github.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png) | ![Safari](https://raw.github.com/alrra/browser-logos/master/src/safari/safari_48x48.png) | ![Opera](https://raw.github.com/alrra/browser-logos/master/src/opera/opera_48x48.png) | ![Edge](https://raw.github.com/alrra/browser-logos/master/src/edge/edge_48x48.png) | ![IE](https://raw.github.com/alrra/browser-logos/master/src/archive/internet-explorer_9-11/internet-explorer_9-11_48x48.png) |
 --- | --- | --- | --- | --- | --- |
 Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ | lol ❌ |
-
-
-![Browser Matrix](https://camo.githubusercontent.com/626c46cfd86214001b4143cda5d0ef27a25bd69f/68747470733a2f2f73617563656c6162732e636f6d2f6f70656e5f73617563652f6275696c645f6d61747269782f6178696f732e737667)
 
 For illustration purposes only.
 
