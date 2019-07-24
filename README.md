@@ -218,7 +218,7 @@ Some other inspirations were left-pad, event-stream, flatmap-stream and /r/progr
 
 MIT
 
-## If you didn't got it by now
+## If you didn't get it by now
 
 This package is meant as a joke. If you seriously consider using this in one of
 your projects, you should be banned 5 meters from every device which can be
